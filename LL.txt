@@ -1,0 +1,31 @@
+                 '
+            *          .
+                   *       '
+              *                *
+
+
+
+					PERSONNEL DATA INSERTION
+                                       
+   *   '*                              
+           *                             A) Current List of Personnel
+                *                        B) Search for Personnel
+                       *                 C) ADD new Personnel
+               *                         D) Update previous Personnel
+                     *                   E) Delete Personnel
+                                         F) Exit
+         .                      .
+         .                      ;
+         :                  - --+- -
+         !           .          !
+         |        .             .
+         |_         +
+      ,  | `.                          
+--- --+-<#>-+- ---  --  -
+      `._|_,'
+         T
+         |
+         !
+         :         . : 
+         .       *
+		 
